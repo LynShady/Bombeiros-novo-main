@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+}
+.check{
+    margin-top: 2%;
+}
+
+/* Estilos gerais */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+/* Estilos específicos para os campos de entrada */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para checkboxes */
+.form-check-label {
+    font-weight: normal;
+}
+
+
+/* Estilos para o grupo de opções de sexo */
+.sexo-group {
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+
+.sexo-label {
+ font-weight: bold;
+ margin-right: 10px;
+}
+
+/* Estilos para as opções de sexo */
+ .form-check-input {
+ margin-right: 5px;
+}
+
